@@ -1,4 +1,4 @@
-# Project Installation
+ # Project Installation
 Welcome to the "Chat" project, which consists of two parts: the server-side (chat-server) and the client-side (chat-ui). Below are the instructions for installing and running both parts.
 
 # Server-side Installation
